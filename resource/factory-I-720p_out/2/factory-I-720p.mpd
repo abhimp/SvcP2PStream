@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="urn:mpeg:DASH:schema:MPD:2011"
+         xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011"
+         profiles="urn:mpeg:dash:profile:isoff-main:2011"
+         type="static"
+         mediaPresentationDuration="PT55.792S"
+         minBufferTime="PT2.0S">
+    <BaseURL>./</BaseURL>
+    <Period start="PT0S">
+    
+     <AdaptationSet bitstreamSwitching="true" mimeType="video/264" startWithSAP="1" maxWidth="1280" maxHeight="720" maxFrameRate="24" par="16:9">
+        
+        <SegmentBase>
+            <Initialization sourceURL="factory-I-720p.init.svc"/>
+        </SegmentBase>
+	
+	<Representation id="0" codecs="AVC" mimeType="video/264" width="1280" height="720" frameRate="24" sar="1:1" bandwidth="1398911">
+	    <SegmentList duration="48" timescale="24">
+		<SegmentURL media="factory-I-720p.seg1-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg2-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg3-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg4-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg5-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg6-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg7-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg8-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg9-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg10-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg11-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg12-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg13-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg14-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg15-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg16-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg17-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg18-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg19-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg20-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg21-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg22-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg23-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg24-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg25-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg26-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg27-L0.svc"/>
+	    </SegmentList>
+	</Representation>    	
+
+        <Representation id="1" dependencyId="0" codecs="SVC" mimeType="video/264"
+                                width="1280" height="720" frameRate="24" sar="1:1" bandwidth="2162327">
+            <SegmentList duration="48" timescale="24">
+                 <SegmentURL media="factory-I-720p.seg1-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg2-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg3-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg4-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg5-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg6-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg7-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg8-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg9-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg10-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg11-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg12-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg13-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg14-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg15-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg16-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg17-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg18-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg19-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg20-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg21-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg22-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg23-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg24-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg25-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg26-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg27-L1.svc"/>
+
+            </SegmentList>
+        </Representation>
+    
+        <Representation id="2" dependencyId="0 1" codecs="SVC" mimeType="video/264"
+                                width="1280" height="720" frameRate="24" sar="1:1" bandwidth="3466219">
+            <SegmentList duration="48" timescale="24">
+                 <SegmentURL media="factory-I-720p.seg1-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg2-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg3-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg4-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg5-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg6-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg7-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg8-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg9-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg10-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg11-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg12-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg13-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg14-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg15-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg16-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg17-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg18-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg19-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg20-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg21-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg22-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg23-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg24-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg25-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg26-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg27-L2.svc"/>
+
+            </SegmentList>
+        </Representation>
+    
+        <Representation id="3" dependencyId="0 1 2" codecs="SVC" mimeType="video/264"
+                                width="1280" height="720" frameRate="24" sar="1:1" bandwidth="5337282">
+            <SegmentList duration="48" timescale="24">
+                 <SegmentURL media="factory-I-720p.seg1-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg2-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg3-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg4-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg5-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg6-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg7-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg8-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg9-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg10-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg11-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg12-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg13-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg14-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg15-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg16-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg17-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg18-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg19-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg20-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg21-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg22-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg23-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg24-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg25-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg26-L3.svc"/>
+                 <SegmentURL media="factory-I-720p.seg27-L3.svc"/>
+            </SegmentList>
+        </Representation>
+    
+     </AdaptationSet>
+        </Period>
+    </MPD>
+    

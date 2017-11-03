@@ -1,0 +1,1868 @@
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.746: VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+WARNING: 2017-11-02T05:38:36.754: error in frame index parse
+last line in log text is:VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.757: VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+WARNING: 2017-11-02T05:38:36.767: error in frame index parse
+last line in log text is:VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.838: VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+WARNING: 2017-11-02T05:38:36.842: error in frame index parse
+last line in log text is:VO: [xv] 176x144 => 352x288 Planar YV12 
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.856: V:   0.0   5/  5 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.859: V:   0.0   5/  5 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.869: V:   0.0   5/  5 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.877: V:   0.0   5/  5 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.907: V:   0.0   6/  6 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.958: V:   0.0   7/  7 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.968: V:   0.0   8/  8 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.973: V:   0.0   8/  8 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.979: V:   0.0   8/  8 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.984: V:   0.0   8/  8 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.989: V:   0.0   8/  8 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.993: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:36 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:36.999: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.007: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.017: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.021: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.023: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.025: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.027: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.033: V:   0.0   9/  9 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.039: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.044: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.049: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.053: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.057: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.063: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.069: V:   0.0  10/ 10 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.077: V:   0.0  11/ 11 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.083: V:   0.0  11/ 11 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.091: V:   0.0  11/ 11 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.125: V:   0.0  12/ 12 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.147: V:   0.0  12/ 12 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.154: V:   0.0  13/ 13 ??% ??% ??,?% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.200: V:   0.0  14/ 14 10% 12%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.202: V:   0.0  14/ 14 10% 12%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.213: V:   0.0  14/ 14 10% 12%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.230: V:   0.0  14/ 14 10% 12%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.241: V:   0.0  15/ 15  9% 11%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.257: V:   0.0  15/ 15  9% 11%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.267: V:   0.0  15/ 15  9% 11%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.274: V:   0.0  16/ 16  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.286: V:   0.0  16/ 16  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.297: V:   0.0  16/ 16  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.307: V:   0.0  16/ 16  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.314: V:   0.0  17/ 17  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.318: V:   0.0  17/ 17  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.330: V:   0.0  17/ 17  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.340: V:   0.0  17/ 17  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.345: V:   0.0  17/ 17  8% 10%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.374: V:   0.0  18/ 18  7%  9%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.391: V:   0.0  18/ 18  7%  9%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.405: V:   0.0  19/ 19  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.415: V:   0.0  19/ 19  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.429: V:   0.0  19/ 19  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.441: V:   0.0  20/ 20  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.450: V:   0.0  20/ 20  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.467: V:   0.0  20/ 20  7%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.482: V:   0.0  21/ 21  6%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.497: V:   0.0  21/ 21  6%  8%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.530: V:   0.0  22/ 22  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.541: V:   0.0  22/ 22  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.547: V:   0.0  22/ 22  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.561: V:   0.0  23/ 23  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.571: V:   0.0  23/ 23  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.587: V:   0.0  23/ 23  6%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.595: V:   0.0  24/ 24  5%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.601: V:   0.0  24/ 24  5%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.615: V:   0.0  24/ 24  5%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.623: V:   0.0  24/ 24  5%  7%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.636: V:   0.0  25/ 25  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.642: V:   0.0  25/ 25  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.657: V:   0.0  25/ 25  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.687: V:   0.0  26/ 26  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.699: V:   0.0  26/ 26  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.712: V:   0.0  26/ 26  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.721: V:   0.0  27/ 27  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.728: V:   0.0  27/ 27  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.738: V:   0.0  27/ 27  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.746: V:   0.0  27/ 27  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.754: V:   0.0  28/ 28  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.765: V:   0.0  28/ 28  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.780: V:   0.0  28/ 28  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.789: V:   0.0  28/ 28  5%  6%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.798: V:   0.0  29/ 29  5%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.816: V:   0.0  29/ 29  5%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.821: V:   0.0  29/ 29  5%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.836: V:   0.0  30/ 30  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.847: V:   0.0  30/ 30  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.872: V:   0.0  30/ 30  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.874: V:   0.0  30/ 30  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.888: V:   0.0  31/ 31  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.897: V:   0.0  31/ 31  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.937: V:   0.0  32/ 32  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.957: V:   0.0  33/ 33  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.961: V:   0.0  33/ 33  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.979: V:   0.0  33/ 33  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:37 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:37.992: V:   0.0  33/ 33  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.001: V:   0.0  34/ 34  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.006: V:   0.0  34/ 34  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.020: V:   0.0  34/ 34  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.023: V:   0.0  34/ 34  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.029: V:   0.0  34/ 34  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.056: V:   0.0  35/ 35  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.059: V:   0.0  35/ 35  4%  5%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.092: V:   0.0  36/ 36  4%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.102: V:   0.0  36/ 36  4%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.129: V:   0.0  37/ 37  4%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.134: V:   0.0  37/ 37  4%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.157: V:   0.0  38/ 38  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.178: V:   0.0  38/ 38  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.197: V:   0.0  39/ 39  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.219: V:   0.0  39/ 39  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.251: V:   0.0  40/ 40  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.264: V:   0.0  40/ 40  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.271: V:   0.0  40/ 40  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.294: V:   0.0  41/ 41  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.329: V:   0.0  42/ 42  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.334: V:   0.0  42/ 42  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.338: V:   0.0  42/ 42  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.354: V:   0.0  42/ 42  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.385: V:   0.0  43/ 43  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.400: V:   0.0  44/ 44  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.407: V:   0.0  44/ 44  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.458: V:   0.0  45/ 45  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.467: V:   0.0  45/ 45  3%  4%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.489: V:   0.0  46/ 46  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.511: V:   0.0  46/ 46  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.526: V:   0.0  47/ 47  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.541: V:   0.0  47/ 47  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.611: V:   0.0  49/ 49  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.631: V:   0.0  49/ 49  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.684: V:   0.0  51/ 51  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.690: V:   0.0  51/ 51  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.711: V:   0.0  51/ 51  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.764: V:   0.0  53/ 53  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.789: V:   0.0  53/ 53  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.816: V:   0.0  54/ 54  3%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.841: V:   0.0  55/ 55  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.864: V:   0.0  55/ 55  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.874: V:   0.0  56/ 56  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.900: V:   0.0  56/ 56  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.911: V:   0.0  56/ 56  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.937: V:   0.0  57/ 57  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.950: V:   0.0  57/ 57  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:38 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:38.984: V:   0.0  58/ 58  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.001: V:   0.0  59/ 59  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.016: V:   0.0  59/ 59  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.037: V:   0.0  60/ 60  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.053: V:   0.0  60/ 60  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.068: V:   0.0  60/ 60  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.085: V:   0.0  61/ 61  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.105: V:   0.0  61/ 61  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.127: V:   0.0  62/ 62  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.134: V:   0.0  62/ 62  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.160: V:   0.0  63/ 63  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.173: V:   0.0  63/ 63  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.193: V:   0.0  63/ 63  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.203: V:   0.0  64/ 64  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.244: V:   0.0  65/ 65  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.260: V:   0.0  65/ 65  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.267: V:   0.0  65/ 65  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.290: V:   0.0  66/ 66  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.312: V:   0.0  66/ 66  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.319: V:   0.0  67/ 67  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.346: V:   0.0  67/ 67  2%  3%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.366: V:   0.0  68/ 68  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.385: V:   0.0  68/ 68  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.404: V:   0.0  69/ 69  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.424: V:   0.0  69/ 69  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.434: V:   0.0  70/ 70  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.455: V:   0.0  70/ 70  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.480: V:   0.0  71/ 71  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.516: V:   0.0  72/ 72  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.533: V:   0.0  72/ 72  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.551: V:   0.0  72/ 72  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.579: V:   0.0  73/ 73  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.601: V:   0.0  74/ 74  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.620: V:   0.0  74/ 74  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.640: V:   0.0  75/ 75  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.674: V:   0.0  76/ 76  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.696: V:   0.0  76/ 76  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.719: V:   0.0  77/ 77  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.737: V:   0.0  77/ 77  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.756: V:   0.0  78/ 78  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.777: V:   0.0  78/ 78  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.802: V:   0.0  79/ 79  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.822: V:   0.0  79/ 79  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.848: V:   0.0  80/ 80  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.863: V:   0.0  80/ 80  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.887: V:   0.0  81/ 81  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.904: V:   0.0  81/ 81  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.924: V:   0.0  82/ 82  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.935: V:   0.0  82/ 82  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.962: V:   0.0  83/ 83  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:39 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:39.971: V:   0.0  83/ 83  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.004: V:   0.0  84/ 84  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.017: V:   0.0  84/ 84  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.039: V:   0.0  85/ 85  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.051: V:   0.0  85/ 85  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.080: V:   0.0  86/ 86  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.104: V:   0.0  86/ 86  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.123: V:   0.0  87/ 87  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.140: V:   0.0  87/ 87  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.151: V:   0.0  87/ 87  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.184: V:   0.0  88/ 88  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.210: V:   0.0  89/ 89  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.244: V:   0.0  90/ 90  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.271: V:   0.0  90/ 90  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.293: V:   0.0  91/ 91  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.307: V:   0.0  91/ 91  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.386: V:   0.0  93/ 93  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.477: V:   0.0  96/ 96  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.502: V:   0.0  96/ 96  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.521: V:   0.0  97/ 97  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.575: V:   0.0  98/ 98  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.591: V:   0.0  98/ 98  2%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.613: V:   0.0  99/ 99  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.640: V:   0.0 100/100  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.731: V:   0.0 102/102  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.761: V:   0.0 103/103  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.789: V:   0.0 103/103  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.819: V:   0.0 104/104  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.840: V:   0.0 105/105  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.865: V:   0.0 105/105  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.894: V:   0.0 106/106  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.918: V:   0.0 107/107  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:40 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:40.975: V:   0.0 108/108  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.028: V:   0.0 109/109  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.050: V:   0.0 110/110  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.086: V:   0.0 111/111  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.121: V:   0.0 112/112  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.144: V:   0.0 112/112  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.202: V:   0.0 114/114  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.236: V:   0.0 115/115  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.267: V:   0.0 115/115  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.312: V:   0.0 116/116  1%  2%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.348: V:   0.0 117/117  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.387: V:   0.0 118/118  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.444: V:   0.0 120/120  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.475: V:   0.0 121/121  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.502: V:   0.0 121/121  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.533: V:   0.0 122/122  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.554: V:   0.0 123/123  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.620: V:   0.0 124/124  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.705: V:   0.0 126/126  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.748: V:   0.0 127/127  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.815: V:   0.0 129/129  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.877: V:   0.0 131/131  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:41 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:41.941: V:   0.0 132/132  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.007: V:   0.0 134/134  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.041: V:   0.0 135/135  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.080: V:   0.0 136/136  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.158: V:   0.0 137/137  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.209: V:   0.0 139/139  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.241: V:   0.0 140/140  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.284: V:   0.0 141/141  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.333: V:   0.0 142/142  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.384: V:   0.0 143/143  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.403: V:   0.0 144/144  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.452: V:   0.0 145/145  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.525: V:   0.0 147/147  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.593: V:   0.0 148/148  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.635: V:   0.0 150/150  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.723: V:   0.0 152/152  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.770: V:   0.0 153/153  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.864: V:   0.0 155/155  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.934: V:   0.0 157/157  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:42 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:42.974: V:   0.0 158/158  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.120: V:   0.0 162/162  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.178: V:   0.0 163/163  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.282: V:   0.0 166/166  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.339: V:   0.0 167/167  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.403: V:   0.0 169/169  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.478: V:   0.0 171/171  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.559: V:   0.0 173/173  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.635: V:   0.0 175/175  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.710: V:   0.0 176/176  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.789: V:   0.0 178/178  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.861: V:   0.0 180/180  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:43 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:43.955: V:   0.0 183/183  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.026: V:   0.0 184/184  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.162: V:   0.0 188/188  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.197: V:   0.0 189/189  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.272: V:   0.0 190/190  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.376: V:   0.0 193/193  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.461: V:   0.0 195/195  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.543: V:   0.0 197/197  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.602: V:   0.0 199/199  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.670: V:   0.0 200/200  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.794: V:   0.0 204/204  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:44 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:44.887: V:   0.0 206/206  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:45 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:45: V:   0.0 209/209  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:45 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:45.089: V:   0.0 211/211  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:45 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:45.091: Downloaded segments: [0]
+Nov 02, 2017 5:38:45 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:45.094: Pause the video and wait for segment download
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.618: Resume playing the video
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.721: V:   0.0 215/215  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.763: V:   0.0 216/216  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.792: V:   0.0 217/217  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.819: V:   0.0 218/218  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.844: V:   0.0 218/218  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.874: V:   0.0 219/219  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.898: V:   0.0 219/219  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.936: V:   0.0 220/220  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.966: V:   0.0 221/221  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:48 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:48.991: V:   0.0 222/222  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.024: V:   0.0 223/223  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.050: V:   0.0 223/223  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.081: V:   0.0 224/224  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.110: V:   0.0 225/225  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.141: V:   0.0 226/226  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.169: V:   0.0 226/226  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.199: V:   0.0 227/227  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.249: V:   0.0 228/228  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.279: V:   0.0 229/229  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.296: V:   0.0 229/229  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.323: V:   0.0 230/230  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.349: V:   0.0 231/231  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.373: V:   0.0 231/231  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.413: V:   0.0 232/232  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.456: V:   0.0 233/233  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.471: V:   0.0 234/234  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.485: V:   0.0 234/234  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.500: V:   0.0 235/235  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.516: V:   0.0 235/235  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.531: V:   0.0 235/235  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.546: V:   0.0 236/236  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.560: V:   0.0 236/236  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.575: V:   0.0 236/236  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.590: V:   0.0 237/237  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.604: V:   0.0 237/237  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.640: V:   0.0 238/238  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.666: V:   0.0 239/239  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.689: V:   0.0 239/239  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.700: V:   0.0 240/240  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.709: V:   0.0 240/240  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.717: V:   0.0 240/240  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.735: V:   0.0 240/240  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.748: V:   0.0 241/241  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.760: V:   0.0 241/241  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.774: V:   0.0 241/241  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.787: V:   0.0 242/242  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.811: V:   0.0 242/242  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.825: V:   0.0 243/243  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.839: V:   0.0 243/243  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.851: V:   0.0 243/243  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.863: V:   0.0 244/244  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.876: V:   0.0 244/244  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.889: V:   0.0 244/244  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.902: V:   0.0 245/245  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.915: V:   0.0 245/245  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.938: V:   0.0 245/245  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.951: V:   0.0 246/246  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.967: V:   0.0 246/246  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.981: V:   0.0 247/247  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:49 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:49.995: V:   0.0 247/247  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.007: V:   0.0 247/247  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.021: V:   0.0 248/248  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.036: V:   0.0 248/248  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.045: V:   0.0 248/248  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.059: V:   0.0 249/249  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.071: V:   0.0 249/249  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.080: V:   0.0 249/249  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.089: V:   0.0 249/249  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.097: V:   0.0 249/249  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.106: V:   0.0 250/250  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.106: CurrentFrame is: 250
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.106: New segment count index2
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.114: V:   0.0 250/250  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.126: V:   0.0 250/250  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.135: V:   0.0 250/250  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.144: V:   0.0 251/251  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.153: V:   0.0 251/251  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.161: V:   0.0 251/251  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.170: V:   0.0 251/251  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.183: V:   0.0 252/252  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.197: V:   0.0 252/252  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.207: V:   0.0 252/252  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.215: V:   0.0 252/252  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.227: V:   0.0 253/253  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.234: V:   0.0 253/253  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.242: V:   0.0 253/253  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.253: V:   0.0 253/253  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.262: V:   0.0 254/254  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.271: V:   0.0 254/254  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.284: V:   0.0 254/254  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.296: V:   0.0 254/254  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.325: V:   0.0 255/255  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.343: V:   0.0 256/256  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.351: V:   0.0 256/256  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.362: V:   0.0 256/256  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.377: V:   0.0 256/256  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.393: V:   0.0 257/257  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.408: V:   0.0 257/257  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.416: V:   0.0 257/257  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.448: V:   0.0 258/258  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.456: V:   0.0 258/258  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.465: V:   0.0 259/259  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.473: V:   0.0 259/259  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.482: V:   0.0 259/259  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.490: V:   0.0 259/259  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.498: V:   0.0 259/259  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.508: V:   0.0 260/260  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.516: V:   0.0 260/260  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.525: V:   0.0 260/260  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.532: V:   0.0 260/260  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.541: V:   0.0 261/261  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.551: V:   0.0 261/261  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.562: V:   0.0 261/261  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.570: V:   0.0 261/261  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.578: V:   0.0 262/262  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.587: V:   0.0 262/262  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.596: V:   0.0 262/262  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.604: V:   0.0 262/262  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.612: V:   0.0 262/262  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.621: V:   0.0 263/263  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.629: V:   0.0 263/263  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.638: V:   0.0 263/263  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.646: V:   0.0 263/263  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.654: V:   0.0 263/263  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.665: V:   0.0 264/264  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.677: V:   0.0 264/264  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.691: V:   0.0 264/264  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.701: V:   0.0 265/265  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.710: V:   0.0 265/265  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.721: V:   0.0 265/265  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.729: V:   0.0 265/265  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.737: V:   0.0 265/265  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.746: V:   0.0 266/266  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.754: V:   0.0 266/266  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.763: V:   0.0 266/266  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.778: V:   0.0 266/266  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.787: V:   0.0 267/267  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.797: V:   0.0 267/267  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.806: V:   0.0 267/267  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.820: V:   0.0 268/268  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.834: V:   0.0 268/268  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.849: V:   0.0 268/268  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.863: V:   0.0 269/269  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.876: V:   0.0 269/269  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.884: V:   0.0 269/269  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.893: V:   0.0 269/269  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.902: V:   0.0 270/270  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.913: V:   0.0 270/270  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.926: V:   0.0 270/270  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.939: V:   0.0 271/271  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.948: V:   0.0 271/271  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.957: V:   0.0 271/271  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.968: V:   0.0 271/271  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.977: V:   0.0 271/271  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.986: V:   0.0 272/272  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:50 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:50.996: V:   0.0 272/272  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.004: V:   0.0 272/272  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.013: V:   0.0 272/272  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.024: V:   0.0 273/273  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.034: V:   0.0 273/273  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.043: V:   0.0 273/273  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.051: V:   0.0 273/273  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.060: V:   0.0 274/274  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.069: V:   0.0 274/274  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.078: V:   0.0 274/274  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.091: V:   0.0 274/274  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.105: V:   0.0 275/275  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.114: V:   0.0 275/275  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.122: V:   0.0 275/275  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.131: V:   0.0 275/275  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.139: V:   0.0 276/276  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.149: V:   0.0 276/276  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.158: V:   0.0 276/276  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.167: V:   0.0 276/276  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.180: V:   0.0 277/277  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.192: V:   0.0 277/277  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.200: V:   0.0 277/277  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.209: V:   0.0 277/277  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.224: V:   0.0 278/278  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.238: V:   0.0 278/278  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.248: V:   0.0 278/278  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.258: V:   0.0 278/278  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.267: V:   0.0 279/279  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.276: V:   0.0 279/279  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.286: V:   0.0 279/279  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.294: V:   0.0 279/279  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.304: V:   0.0 280/280  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.315: V:   0.0 280/280  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.329: V:   0.0 280/280  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.339: V:   0.0 281/281  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.349: V:   0.0 281/281  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.359: V:   0.0 281/281  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.367: V:   0.0 281/281  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.376: V:   0.0 281/281  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.387: V:   0.0 282/282  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.398: V:   0.0 282/282  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.407: V:   0.0 282/282  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.416: V:   0.0 282/282  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.428: V:   0.0 283/283  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.440: V:   0.0 283/283  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.449: V:   0.0 283/283  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.457: V:   0.0 283/283  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.467: V:   0.0 284/284  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.475: V:   0.0 284/284  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.485: V:   0.0 284/284  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.499: V:   0.0 285/285  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.513: V:   0.0 285/285  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.528: V:   0.0 285/285  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.543: V:   0.0 286/286  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.558: V:   0.0 286/286  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.573: V:   0.0 286/286  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.610: V:   0.0 287/287  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.623: V:   0.0 288/288  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.632: V:   0.0 288/288  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.642: V:   0.0 288/288  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.654: V:   0.0 288/288  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.673: V:   0.0 289/289  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.691: V:   0.0 289/289  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.710: V:   0.0 290/290  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.730: V:   0.0 290/290  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.749: V:   0.0 291/291  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.768: V:   0.0 291/291  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.787: V:   0.0 292/292  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.805: V:   0.0 292/292  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.825: V:   0.0 293/293  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.842: V:   0.0 293/293  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.859: V:   0.0 294/294  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.877: V:   0.0 294/294  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.895: V:   0.0 294/294  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.912: V:   0.0 295/295  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.929: V:   0.0 295/295  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.946: V:   0.0 296/296  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.964: V:   0.0 296/296  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.981: V:   0.0 297/297  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:51 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:51.998: V:   0.0 297/297  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.015: V:   0.0 297/297  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.033: V:   0.0 298/298  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.050: V:   0.0 298/298  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.068: V:   0.0 299/299  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.086: V:   0.0 299/299  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.103: V:   0.0 300/300  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.121: V:   0.0 300/300  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.138: V:   0.0 300/300  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.157: V:   0.0 301/301  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.174: V:   0.0 301/301  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.192: V:   0.0 302/302  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.210: V:   0.0 302/302  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.227: V:   0.0 303/303  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.245: V:   0.0 303/303  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.263: V:   0.0 304/304  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.280: V:   0.0 304/304  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.298: V:   0.0 304/304  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.316: V:   0.0 305/305  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.334: V:   0.0 305/305  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.353: V:   0.0 306/306  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.370: V:   0.0 306/306  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.388: V:   0.0 307/307  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.406: V:   0.0 307/307  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.424: V:   0.0 308/308  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.442: V:   0.0 308/308  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.460: V:   0.0 309/309  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.478: V:   0.0 309/309  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.496: V:   0.0 309/309  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.514: V:   0.0 310/310  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.532: V:   0.0 310/310  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.550: V:   0.0 311/311  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.568: V:   0.0 311/311  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.586: V:   0.0 312/312  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.605: V:   0.0 312/312  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.623: V:   0.0 313/313  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.641: V:   0.0 313/313  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.659: V:   0.0 314/314  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.678: V:   0.0 314/314  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.696: V:   0.0 314/314  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.714: V:   0.0 315/315  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.732: V:   0.0 315/315  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.750: V:   0.0 316/316  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.768: V:   0.0 316/316  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.786: V:   0.0 317/317  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.805: V:   0.0 317/317  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.823: V:   0.0 318/318  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.842: V:   0.0 318/318  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.861: V:   0.0 319/319  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.879: V:   0.0 319/319  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.898: V:   0.0 319/319  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.917: V:   0.0 320/320  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.936: V:   0.0 320/320  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.954: V:   0.0 321/321  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.973: V:   0.0 321/321  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:52 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:52.993: V:   0.0 322/322  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.011: V:   0.0 322/322  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.030: V:   0.0 323/323  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.050: V:   0.0 323/323  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.069: V:   0.0 324/324  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.088: V:   0.0 324/324  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.107: V:   0.0 325/325  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.126: V:   0.0 325/325  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.146: V:   0.0 326/326  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.164: V:   0.0 326/326  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.183: V:   0.0 327/327  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.202: V:   0.0 327/327  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.221: V:   0.0 328/328  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.240: V:   0.0 328/328  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.259: V:   0.0 329/329  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.278: V:   0.0 329/329  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.297: V:   0.0 329/329  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.316: V:   0.0 330/330  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.336: V:   0.0 330/330  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.355: V:   0.0 331/331  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.374: V:   0.0 331/331  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.393: V:   0.0 332/332  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.408: V:   0.0 332/332  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.418: V:   0.0 332/332  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.431: V:   0.0 333/333  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.447: V:   0.0 333/333  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.467: V:   0.0 334/334  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.486: V:   0.0 334/334  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.505: V:   0.0 335/335  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.524: V:   0.0 335/335  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.544: V:   0.0 336/336  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.563: V:   0.0 336/336  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.583: V:   0.0 337/337  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.603: V:   0.0 337/337  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.622: V:   0.0 338/338  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.641: V:   0.0 338/338  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.661: V:   0.0 339/339  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.685: V:   0.0 339/339  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.704: V:   0.0 340/340  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.723: V:   0.0 340/340  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.742: V:   0.0 341/341  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.761: V:   0.0 341/341  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.781: V:   0.0 342/342  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.800: V:   0.0 342/342  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.819: V:   0.0 343/343  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.839: V:   0.0 343/343  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.858: V:   0.0 343/343  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.878: V:   0.0 344/344  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.897: V:   0.0 344/344  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.916: V:   0.0 345/345  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.936: V:   0.0 345/345  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.956: V:   0.0 346/346  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.975: V:   0.0 346/346  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:53 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:53.995: V:   0.0 347/347  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.014: V:   0.0 347/347  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.034: V:   0.0 348/348  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.053: V:   0.0 348/348  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.073: V:   0.0 349/349  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.093: V:   0.0 349/349  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.112: V:   0.0 350/350  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.132: V:   0.0 350/350  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.152: V:   0.0 351/351  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.171: V:   0.0 351/351  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.192: V:   0.0 352/352  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.212: V:   0.0 352/352  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.232: V:   0.0 353/353  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.252: V:   0.0 353/353  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.272: V:   0.0 354/354  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.292: V:   0.0 354/354  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.311: V:   0.0 355/355  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.331: V:   0.0 355/355  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.352: V:   0.0 356/356  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.372: V:   0.0 356/356  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.393: V:   0.0 357/357  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.414: V:   0.0 357/357  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.433: V:   0.0 358/358  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.453: V:   0.0 358/358  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.474: V:   0.0 359/359  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.501: V:   0.0 360/360  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.521: V:   0.0 360/360  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.542: V:   0.0 361/361  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.562: V:   0.0 361/361  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.582: V:   0.0 362/362  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.603: V:   0.0 362/362  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.624: V:   0.0 363/363  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.643: V:   0.0 363/363  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.663: V:   0.0 364/364  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.683: V:   0.0 364/364  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.704: V:   0.0 365/365  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.725: V:   0.0 365/365  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.745: V:   0.0 366/366  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.766: V:   0.0 366/366  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.787: V:   0.0 367/367  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.808: V:   0.0 367/367  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.829: V:   0.0 368/368  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.850: V:   0.0 368/368  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.871: V:   0.0 369/369  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.892: V:   0.0 369/369  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.913: V:   0.0 370/370  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.933: V:   0.0 370/370  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.955: V:   0.0 371/371  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.975: V:   0.0 371/371  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:54 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:54.996: V:   0.0 372/372  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.018: V:   0.0 372/372  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.039: V:   0.0 373/373  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.060: V:   0.0 374/374  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.081: V:   0.0 374/374  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.102: V:   0.0 375/375  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.124: V:   0.0 375/375  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.145: V:   0.0 376/376  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.166: V:   0.0 376/376  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.188: V:   0.0 377/377  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.209: V:   0.0 377/377  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.231: V:   0.0 378/378  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.252: V:   0.0 378/378  1%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.274: V:   0.0 379/379  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.295: V:   0.0 379/379  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.316: V:   0.0 380/380  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.338: V:   0.0 380/380  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.360: V:   0.0 381/381  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.382: V:   0.0 382/382  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.403: V:   0.0 382/382  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.425: V:   0.0 383/383  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.447: V:   0.0 383/383  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.468: V:   0.0 384/384  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.490: V:   0.0 384/384  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.512: V:   0.0 385/385  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.534: V:   0.0 385/385  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.556: V:   0.0 386/386  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.578: V:   0.0 386/386  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.600: V:   0.0 387/387  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.622: V:   0.0 388/388  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.644: V:   0.0 388/388  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.666: V:   0.0 389/389  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.688: V:   0.0 389/389  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.710: V:   0.0 390/390  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.732: V:   0.0 390/390  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.754: V:   0.0 391/391  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.776: V:   0.0 391/391  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.798: V:   0.0 392/392  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.821: V:   0.0 393/393  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.843: V:   0.0 393/393  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.865: V:   0.0 394/394  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.888: V:   0.0 394/394  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.910: V:   0.0 395/395  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.932: V:   0.0 395/395  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.955: V:   0.0 396/396  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:55 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:55.978: V:   0.0 396/396  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56: V:   0.0 397/397  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.023: V:   0.0 398/398  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.045: V:   0.0 398/398  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.067: V:   0.0 399/399  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.090: V:   0.0 399/399  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.112: V:   0.0 400/400  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.134: V:   0.0 400/400  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.157: V:   0.0 401/401  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.179: V:   0.0 402/402  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.203: V:   0.0 402/402  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.230: V:   0.0 403/403  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.253: V:   0.0 403/403  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.277: V:   0.0 404/404  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.301: V:   0.0 405/405  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.325: V:   0.0 405/405  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.350: V:   0.0 406/406  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.374: V:   0.0 406/406  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.401: V:   0.0 407/407  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.424: V:   0.0 408/408  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.446: V:   0.0 408/408  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.469: V:   0.0 409/409  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.493: V:   0.0 409/409  0%  1%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.516: V:   0.0 410/410  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.542: V:   0.0 411/411  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.566: V:   0.0 411/411  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.589: V:   0.0 412/412  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.603: V:   0.0 412/412  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.622: V:   0.0 413/413  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.644: V:   0.0 413/413  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.667: V:   0.0 414/414  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.689: V:   0.0 414/414  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.713: V:   0.0 415/415  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.736: V:   0.0 415/415  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.759: V:   0.0 416/416  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.783: V:   0.0 417/417  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.806: V:   0.0 417/417  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.827: V:   0.0 418/418  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.840: V:   0.0 418/418  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.852: V:   0.0 418/418  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.866: V:   0.0 419/419  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.879: V:   0.0 419/419  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.891: V:   0.0 419/419  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.911: V:   0.0 420/420  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.934: V:   0.0 420/420  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.958: V:   0.0 421/421  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:56 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:56.981: V:   0.0 422/422  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.005: V:   0.0 422/422  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.029: V:   0.0 423/423  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.052: V:   0.0 423/423  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.069: V:   0.0 424/424  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.082: V:   0.0 424/424  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.094: V:   0.0 424/424  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.115: V:   0.0 425/425  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.139: V:   0.0 426/426  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.162: V:   0.0 426/426  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.186: V:   0.0 427/427  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.210: V:   0.0 427/427  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.234: V:   0.0 428/428  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.258: V:   0.0 428/428  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.282: V:   0.0 429/429  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.306: V:   0.0 430/430  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.331: V:   0.0 430/430  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.355: V:   0.0 431/431  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.379: V:   0.0 432/432  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.403: V:   0.0 432/432  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.427: V:   0.0 433/433  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.452: V:   0.0 433/433  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.476: V:   0.0 434/434  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.500: V:   0.0 435/435  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.525: V:   0.0 435/435  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.549: V:   0.0 436/436  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.573: V:   0.0 436/436  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.598: V:   0.0 437/437  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.622: V:   0.0 438/438  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.647: V:   0.0 438/438  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.671: V:   0.0 439/439  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.696: V:   0.0 439/439  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.720: V:   0.0 440/440  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.745: V:   0.0 441/441  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.769: V:   0.0 441/441  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.794: V:   0.0 442/442  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.819: V:   0.0 443/443  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.844: V:   0.0 443/443  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.868: V:   0.0 444/444  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.893: V:   0.0 444/444  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.918: V:   0.0 445/445  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.943: V:   0.0 446/446  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.968: V:   0.0 446/446  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:57 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:57.993: V:   0.0 447/447  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.018: V:   0.0 447/447  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.043: V:   0.0 448/448  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.068: V:   0.0 449/449  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.093: V:   0.0 449/449  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.118: V:   0.0 450/450  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.143: V:   0.0 451/451  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.168: V:   0.0 451/451  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.194: V:   0.0 452/452  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.219: V:   0.0 453/453  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.244: V:   0.0 453/453  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.269: V:   0.0 454/454  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.295: V:   0.0 454/454  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.323: V:   0.0 455/455  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.349: V:   0.0 456/456  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.374: V:   0.0 456/456  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.400: V:   0.0 457/457  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.425: V:   0.0 458/458  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.451: V:   0.0 458/458  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.477: V:   0.0 459/459  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.502: V:   0.0 460/460  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.528: V:   0.0 460/460  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.554: V:   0.0 461/461  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.580: V:   0.0 462/462  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.605: V:   0.0 462/462  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.633: V:   0.0 463/463  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.659: V:   0.0 464/464  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.685: V:   0.0 464/464  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.711: V:   0.0 465/465  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.737: V:   0.0 465/465  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.763: V:   0.0 466/466  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.789: V:   0.0 467/467  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.815: V:   0.0 467/467  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.841: V:   0.0 468/468  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.868: V:   0.0 469/469  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.894: V:   0.0 469/469  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.920: V:   0.0 470/470  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.946: V:   0.0 471/471  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.973: V:   0.0 471/471  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:58 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:58.999: V:   0.0 472/472  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.026: V:   0.0 473/473  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.052: V:   0.0 473/473  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.079: V:   0.0 474/474  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.105: V:   0.0 475/475  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.132: V:   0.0 475/475  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.158: V:   0.0 476/476  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.185: V:   0.0 477/477  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.212: V:   0.0 477/477  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.238: V:   0.0 478/478  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.265: V:   0.0 479/479  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.292: V:   0.0 479/479  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.319: V:   0.0 480/480  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.345: V:   0.0 481/481  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.360: V:   0.0 481/481  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.374: V:   0.0 481/481  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.389: V:   0.0 482/482  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.403: V:   0.0 482/482  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.418: V:   0.0 482/482  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.437: V:   0.0 483/483  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.460: V:   0.0 484/484  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.475: V:   0.0 484/484  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.490: V:   0.0 484/484  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.505: V:   0.0 485/485  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.520: V:   0.0 485/485  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.534: V:   0.0 485/485  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.549: V:   0.0 486/486  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.574: V:   0.0 486/486  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.593: V:   0.0 487/487  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.607: V:   0.0 487/487  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.622: V:   0.0 488/488  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.638: V:   0.0 488/488  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.652: V:   0.0 488/488  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.667: V:   0.0 489/489  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.688: V:   0.0 489/489  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.703: V:   0.0 490/490  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.718: V:   0.0 490/490  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.734: V:   0.0 490/490  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.749: V:   0.0 491/491  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.764: V:   0.0 491/491  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.782: V:   0.0 492/492  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.797: V:   0.0 492/492  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.811: V:   0.0 492/492  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.827: V:   0.0 493/493  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.842: V:   0.0 493/493  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.857: V:   0.0 493/493  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.872: V:   0.0 494/494  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.887: V:   0.0 494/494  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.904: V:   0.0 495/495  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.919: V:   0.0 495/495  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.940: V:   0.0 496/496  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.956: V:   0.0 496/496  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.971: V:   0.0 496/496  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:38:59 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:38:59.986: V:   0.0 497/497  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.002: V:   0.0 497/497  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.021: V:   0.0 498/498  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.037: V:   0.0 498/498  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.052: V:   0.0 498/498  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.067: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.082: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.097: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.113: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.141: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.169: V:   0.0 499/499  0%  0%  0.0% 0 0                                              
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.201: Exiting... (End of file)
+Nov 02, 2017 5:39:00 AM com.mtp.app.Player runMplayerController
+INFO: 2017-11-02T05:39:00.201: Exiting mplayer...
+==================================

@@ -1,0 +1,386 @@
+Name:factory-I-720p.mpd >> Download complete...
+Start processing...
+2017-11-03T06:42:00.447:
+========================================================
+Video information:
+Video resolution:1280x720
+LayerID is: [0, 1, 2, 3]
+Bandwidth requirement for each layer: [1398911.0, 2162327.0, 3466219.0, 5337282.0] bits/s
+Number of segments: 27
+Duration of each segment: 48 frames
+========================================================
+2017-11-03T06:42:00.466: FileName: factory-I-720p.init.svc download complete...
+2017-11-03T06:42:00.467:
+==================================================
+Start handling segment 0, previous reference speed: 20.52625809366059KB/s
+2017-11-03T06:42:00.467: Threshold of 0: 174KB/s
+2017-11-03T06:42:00.467: Threshold of 1: 445KB/s
+2017-11-03T06:42:00.467: SelectedLayer: 0
+2017-11-03T06:42:00.643: FileName: factory-I-720p.seg1-L0.svc download complete...
+2017-11-03T06:42:00.930: Finish handling segment 0
+==================================================
+2017-11-03T06:42:01.080:
+==================================================
+Start handling segment 1, previous reference speed: 1859.0495352733594KB/s
+2017-11-03T06:42:01.081: Threshold of 0: 174KB/s
+2017-11-03T06:42:01.081: Threshold of 1: 445KB/s
+2017-11-03T06:42:01.081: Threshold of 2: 878KB/s
+2017-11-03T06:42:01.081: Threshold of 3: 1545KB/s
+2017-11-03T06:42:01.081: SelectedLayer: 3
+2017-11-03T06:42:01.297: FileName: factory-I-720p.seg2-L0.svc download complete...
+2017-11-03T06:42:01.356: FileName: factory-I-720p.seg2-L1.svc download complete...
+2017-11-03T06:42:01.543: FileName: factory-I-720p.seg2-L2.svc download complete...
+2017-11-03T06:42:01.682: FileName: factory-I-720p.seg2-L3.svc download complete...
+2017-11-03T06:42:01.772: Finish handling segment 1
+==================================================
+2017-11-03T06:42:01.772:
+==================================================
+Start handling segment 2, previous reference speed: 9223.301060500602KB/s
+2017-11-03T06:42:01.772: Threshold of 0: 174KB/s
+2017-11-03T06:42:01.772: Threshold of 1: 445KB/s
+2017-11-03T06:42:01.773: Threshold of 2: 878KB/s
+2017-11-03T06:42:01.773: Threshold of 3: 1545KB/s
+2017-11-03T06:42:01.773: SelectedLayer: 3
+2017-11-03T06:42:01.807: FileName: factory-I-720p.seg3-L0.svc download complete...
+2017-11-03T06:42:01.872: FileName: factory-I-720p.seg3-L1.svc download complete...
+2017-11-03T06:42:01.930: FileName: factory-I-720p.seg3-L2.svc download complete...
+2017-11-03T06:42:02.102: FileName: factory-I-720p.seg3-L3.svc download complete...
+2017-11-03T06:42:02.252: Finish handling segment 2
+==================================================
+2017-11-03T06:42:02.252:
+==================================================
+Start handling segment 3, previous reference speed: 4176.945159915908KB/s
+2017-11-03T06:42:02.252: Threshold of 0: 174KB/s
+2017-11-03T06:42:02.252: Threshold of 1: 445KB/s
+2017-11-03T06:42:02.252: Threshold of 2: 878KB/s
+2017-11-03T06:42:02.252: Threshold of 3: 1545KB/s
+2017-11-03T06:42:02.252: SelectedLayer: 3
+2017-11-03T06:42:02.291: FileName: factory-I-720p.seg4-L0.svc download complete...
+2017-11-03T06:42:02.370: FileName: factory-I-720p.seg4-L1.svc download complete...
+2017-11-03T06:42:02.421: FileName: factory-I-720p.seg4-L2.svc download complete...
+2017-11-03T06:42:02.451: FileName: factory-I-720p.seg4-L3.svc download complete...
+2017-11-03T06:42:02.491: Finish handling segment 3
+==================================================
+2017-11-03T06:42:02.491:
+==================================================
+Start handling segment 4, previous reference speed: 15900.010430418877KB/s
+2017-11-03T06:42:02.491: Threshold of 0: 174KB/s
+2017-11-03T06:42:02.491: Threshold of 1: 445KB/s
+2017-11-03T06:42:02.491: Threshold of 2: 878KB/s
+2017-11-03T06:42:02.491: Threshold of 3: 1545KB/s
+2017-11-03T06:42:02.491: SelectedLayer: 3
+2017-11-03T06:42:02.539: FileName: factory-I-720p.seg5-L0.svc download complete...
+2017-11-03T06:42:02.591: FileName: factory-I-720p.seg5-L1.svc download complete...
+2017-11-03T06:42:02.651: FileName: factory-I-720p.seg5-L2.svc download complete...
+2017-11-03T06:42:02.708: FileName: factory-I-720p.seg5-L3.svc download complete...
+2017-11-03T06:42:02.808: Finish handling segment 4
+==================================================
+2017-11-03T06:42:02.809:
+==================================================
+Start handling segment 5, previous reference speed: 12770.447733448KB/s
+2017-11-03T06:42:02.809: Threshold of 0: 174KB/s
+2017-11-03T06:42:02.809: Threshold of 1: 445KB/s
+2017-11-03T06:42:02.809: Threshold of 2: 878KB/s
+2017-11-03T06:42:02.809: Threshold of 3: 1545KB/s
+2017-11-03T06:42:02.809: SelectedLayer: 3
+2017-11-03T06:42:02.869: FileName: factory-I-720p.seg6-L0.svc download complete...
+2017-11-03T06:42:02.950: FileName: factory-I-720p.seg6-L1.svc download complete...
+2017-11-03T06:42:02.996: FileName: factory-I-720p.seg6-L2.svc download complete...
+2017-11-03T06:42:03.052: FileName: factory-I-720p.seg6-L3.svc download complete...
+2017-11-03T06:42:03.131: Finish handling segment 5
+==================================================
+2017-11-03T06:42:03.131:
+==================================================
+Start handling segment 6, previous reference speed: 12306.20324495095KB/s
+2017-11-03T06:42:03.131: Threshold of 0: 174KB/s
+2017-11-03T06:42:03.131: Threshold of 1: 445KB/s
+2017-11-03T06:42:03.131: Threshold of 2: 878KB/s
+2017-11-03T06:42:03.131: Threshold of 3: 1545KB/s
+2017-11-03T06:42:03.131: SelectedLayer: 3
+2017-11-03T06:42:03.161: FileName: factory-I-720p.seg7-L0.svc download complete...
+2017-11-03T06:42:03.208: FileName: factory-I-720p.seg7-L1.svc download complete...
+2017-11-03T06:42:03.268: FileName: factory-I-720p.seg7-L2.svc download complete...
+2017-11-03T06:42:03.309: FileName: factory-I-720p.seg7-L3.svc download complete...
+2017-11-03T06:42:03.426: Finish handling segment 6
+==================================================
+2017-11-03T06:42:03.426:
+==================================================
+Start handling segment 7, previous reference speed: 12782.97726748788KB/s
+2017-11-03T06:42:03.427: Threshold of 0: 174KB/s
+2017-11-03T06:42:03.427: Threshold of 1: 445KB/s
+2017-11-03T06:42:03.427: Threshold of 2: 878KB/s
+2017-11-03T06:42:03.427: Threshold of 3: 1545KB/s
+2017-11-03T06:42:03.427: SelectedLayer: 3
+2017-11-03T06:42:03.450: FileName: factory-I-720p.seg8-L0.svc download complete...
+2017-11-03T06:42:03.498: FileName: factory-I-720p.seg8-L1.svc download complete...
+2017-11-03T06:42:03.544: FileName: factory-I-720p.seg8-L2.svc download complete...
+2017-11-03T06:42:03.605: FileName: factory-I-720p.seg8-L3.svc download complete...
+2017-11-03T06:42:03.686: Finish handling segment 7
+==================================================
+2017-11-03T06:42:03.687:
+==================================================
+Start handling segment 8, previous reference speed: 4778.07345136465KB/s
+2017-11-03T06:42:03.688: Threshold of 0: 174KB/s
+2017-11-03T06:42:03.688: Threshold of 1: 445KB/s
+2017-11-03T06:42:03.688: Threshold of 2: 878KB/s
+2017-11-03T06:42:03.688: Threshold of 3: 1545KB/s
+2017-11-03T06:42:03.688: SelectedLayer: 3
+2017-11-03T06:42:03.731: FileName: factory-I-720p.seg9-L0.svc download complete...
+2017-11-03T06:42:03.770: FileName: factory-I-720p.seg9-L1.svc download complete...
+2017-11-03T06:42:03.809: FileName: factory-I-720p.seg9-L2.svc download complete...
+2017-11-03T06:42:04.138: FileName: factory-I-720p.seg9-L3.svc download complete...
+2017-11-03T06:42:04.230: Finish handling segment 8
+==================================================
+2017-11-03T06:42:04.230:
+==================================================
+Start handling segment 9, previous reference speed: 14095.16344219536KB/s
+2017-11-03T06:42:04.230: Threshold of 0: 174KB/s
+2017-11-03T06:42:04.230: Threshold of 1: 445KB/s
+2017-11-03T06:42:04.230: Threshold of 2: 878KB/s
+2017-11-03T06:42:04.230: Threshold of 3: 1545KB/s
+2017-11-03T06:42:04.231: SelectedLayer: 3
+2017-11-03T06:42:04.261: FileName: factory-I-720p.seg10-L0.svc download complete...
+2017-11-03T06:42:04.329: FileName: factory-I-720p.seg10-L1.svc download complete...
+2017-11-03T06:42:04.436: FileName: factory-I-720p.seg10-L2.svc download complete...
+2017-11-03T06:42:04.509: FileName: factory-I-720p.seg10-L3.svc download complete...
+2017-11-03T06:42:04.604: Finish handling segment 9
+==================================================
+2017-11-03T06:42:04.604:
+==================================================
+Start handling segment 10, previous reference speed: 9905.135667729031KB/s
+2017-11-03T06:42:04.604: Threshold of 0: 174KB/s
+2017-11-03T06:42:04.604: Threshold of 1: 445KB/s
+2017-11-03T06:42:04.604: Threshold of 2: 878KB/s
+2017-11-03T06:42:04.604: Threshold of 3: 1545KB/s
+2017-11-03T06:42:04.604: SelectedLayer: 3
+2017-11-03T06:42:04.695: FileName: factory-I-720p.seg11-L0.svc download complete...
+2017-11-03T06:42:04.743: FileName: factory-I-720p.seg11-L1.svc download complete...
+2017-11-03T06:42:04.784: FileName: factory-I-720p.seg11-L2.svc download complete...
+2017-11-03T06:42:04.827: FileName: factory-I-720p.seg11-L3.svc download complete...
+2017-11-03T06:42:04.906: Finish handling segment 10
+==================================================
+2017-11-03T06:42:04.906:
+==================================================
+Start handling segment 11, previous reference speed: 20936.34496645447KB/s
+2017-11-03T06:42:04.906: Threshold of 0: 174KB/s
+2017-11-03T06:42:04.906: Threshold of 1: 445KB/s
+2017-11-03T06:42:04.906: Threshold of 2: 878KB/s
+2017-11-03T06:42:04.906: Threshold of 3: 1545KB/s
+2017-11-03T06:42:04.907: SelectedLayer: 3
+2017-11-03T06:42:04.953: FileName: factory-I-720p.seg12-L0.svc download complete...
+2017-11-03T06:42:04.973: FileName: factory-I-720p.seg12-L1.svc download complete...
+2017-11-03T06:42:05.005: FileName: factory-I-720p.seg12-L2.svc download complete...
+2017-11-03T06:42:05.045: FileName: factory-I-720p.seg12-L3.svc download complete...
+2017-11-03T06:42:05.100: Finish handling segment 11
+==================================================
+2017-11-03T06:42:05.101:
+==================================================
+Start handling segment 12, previous reference speed: 19994.027705313092KB/s
+2017-11-03T06:42:05.101: Threshold of 0: 174KB/s
+2017-11-03T06:42:05.101: Threshold of 1: 445KB/s
+2017-11-03T06:42:05.101: Threshold of 2: 878KB/s
+2017-11-03T06:42:05.101: Threshold of 3: 1545KB/s
+2017-11-03T06:42:05.101: SelectedLayer: 3
+2017-11-03T06:42:05.135: FileName: factory-I-720p.seg13-L0.svc download complete...
+2017-11-03T06:42:05.155: FileName: factory-I-720p.seg13-L1.svc download complete...
+2017-11-03T06:42:05.169: FileName: factory-I-720p.seg13-L2.svc download complete...
+2017-11-03T06:42:05.204: FileName: factory-I-720p.seg13-L3.svc download complete...
+2017-11-03T06:42:05.290: Finish handling segment 12
+==================================================
+2017-11-03T06:42:05.290:
+==================================================
+Start handling segment 13, previous reference speed: 12984.410130554601KB/s
+2017-11-03T06:42:05.290: Threshold of 0: 174KB/s
+2017-11-03T06:42:05.290: Threshold of 1: 445KB/s
+2017-11-03T06:42:05.290: Threshold of 2: 878KB/s
+2017-11-03T06:42:05.291: Threshold of 3: 1545KB/s
+2017-11-03T06:42:05.291: SelectedLayer: 3
+2017-11-03T06:42:05.331: FileName: factory-I-720p.seg14-L0.svc download complete...
+2017-11-03T06:42:05.360: FileName: factory-I-720p.seg14-L1.svc download complete...
+2017-11-03T06:42:05.389: FileName: factory-I-720p.seg14-L2.svc download complete...
+2017-11-03T06:42:05.413: FileName: factory-I-720p.seg14-L3.svc download complete...
+2017-11-03T06:42:05.522: Finish handling segment 13
+==================================================
+2017-11-03T06:42:05.522:
+==================================================
+Start handling segment 14, previous reference speed: 21267.42809038201KB/s
+2017-11-03T06:42:05.522: Threshold of 0: 174KB/s
+2017-11-03T06:42:05.523: Threshold of 1: 445KB/s
+2017-11-03T06:42:05.523: Threshold of 2: 878KB/s
+2017-11-03T06:42:05.523: Threshold of 3: 1545KB/s
+2017-11-03T06:42:05.523: SelectedLayer: 3
+2017-11-03T06:42:05.549: FileName: factory-I-720p.seg15-L0.svc download complete...
+2017-11-03T06:42:05.590: FileName: factory-I-720p.seg15-L1.svc download complete...
+2017-11-03T06:42:05.626: FileName: factory-I-720p.seg15-L2.svc download complete...
+2017-11-03T06:42:05.708: FileName: factory-I-720p.seg15-L3.svc download complete...
+2017-11-03T06:42:05.884: Finish handling segment 14
+==================================================
+2017-11-03T06:42:05.884:
+==================================================
+Start handling segment 15, previous reference speed: 8496.583189142253KB/s
+2017-11-03T06:42:05.884: Threshold of 0: 174KB/s
+2017-11-03T06:42:05.884: Threshold of 1: 445KB/s
+2017-11-03T06:42:05.884: Threshold of 2: 878KB/s
+2017-11-03T06:42:05.884: Threshold of 3: 1545KB/s
+2017-11-03T06:42:05.884: SelectedLayer: 3
+2017-11-03T06:42:05.919: FileName: factory-I-720p.seg16-L0.svc download complete...
+2017-11-03T06:42:05.953: FileName: factory-I-720p.seg16-L1.svc download complete...
+2017-11-03T06:42:05.975: FileName: factory-I-720p.seg16-L2.svc download complete...
+2017-11-03T06:42:06.074: FileName: factory-I-720p.seg16-L3.svc download complete...
+2017-11-03T06:42:06.398: Finish handling segment 15
+==================================================
+2017-11-03T06:42:06.398:
+==================================================
+Start handling segment 16, previous reference speed: 5931.268742012305KB/s
+2017-11-03T06:42:06.398: Threshold of 0: 174KB/s
+2017-11-03T06:42:06.398: Threshold of 1: 445KB/s
+2017-11-03T06:42:06.398: Threshold of 2: 878KB/s
+2017-11-03T06:42:06.398: Threshold of 3: 1545KB/s
+2017-11-03T06:42:06.398: SelectedLayer: 3
+2017-11-03T06:42:06.428: FileName: factory-I-720p.seg17-L0.svc download complete...
+2017-11-03T06:42:06.451: FileName: factory-I-720p.seg17-L1.svc download complete...
+2017-11-03T06:42:06.467: FileName: factory-I-720p.seg17-L2.svc download complete...
+2017-11-03T06:42:06.513: FileName: factory-I-720p.seg17-L3.svc download complete...
+2017-11-03T06:42:06.656: Finish handling segment 16
+==================================================
+2017-11-03T06:42:06.656:
+==================================================
+Start handling segment 17, previous reference speed: 9895.205445683041KB/s
+2017-11-03T06:42:06.656: Threshold of 0: 174KB/s
+2017-11-03T06:42:06.656: Threshold of 1: 445KB/s
+2017-11-03T06:42:06.656: Threshold of 2: 878KB/s
+2017-11-03T06:42:06.656: Threshold of 3: 1545KB/s
+2017-11-03T06:42:06.656: SelectedLayer: 3
+2017-11-03T06:42:06.669: FileName: factory-I-720p.seg18-L0.svc download complete...
+2017-11-03T06:42:06.680: FileName: factory-I-720p.seg18-L1.svc download complete...
+2017-11-03T06:42:06.735: FileName: factory-I-720p.seg18-L2.svc download complete...
+2017-11-03T06:42:06.782: FileName: factory-I-720p.seg18-L3.svc download complete...
+2017-11-03T06:42:06.871: Finish handling segment 17
+==================================================
+2017-11-03T06:42:06.871:
+==================================================
+Start handling segment 18, previous reference speed: 6299.185692273986KB/s
+2017-11-03T06:42:06.871: Threshold of 0: 174KB/s
+2017-11-03T06:42:06.871: Threshold of 1: 445KB/s
+2017-11-03T06:42:06.871: Threshold of 2: 878KB/s
+2017-11-03T06:42:06.871: Threshold of 3: 1545KB/s
+2017-11-03T06:42:06.871: SelectedLayer: 3
+2017-11-03T06:42:06.881: FileName: factory-I-720p.seg19-L0.svc download complete...
+2017-11-03T06:42:06.891: FileName: factory-I-720p.seg19-L1.svc download complete...
+2017-11-03T06:42:06.983: FileName: factory-I-720p.seg19-L2.svc download complete...
+2017-11-03T06:42:07.047: FileName: factory-I-720p.seg19-L3.svc download complete...
+2017-11-03T06:42:07.247: Finish handling segment 18
+==================================================
+2017-11-03T06:42:07.247:
+==================================================
+Start handling segment 19, previous reference speed: 3546.4464844744KB/s
+2017-11-03T06:42:07.247: Threshold of 0: 174KB/s
+2017-11-03T06:42:07.247: Threshold of 1: 445KB/s
+2017-11-03T06:42:07.247: Threshold of 2: 878KB/s
+2017-11-03T06:42:07.247: Threshold of 3: 1545KB/s
+2017-11-03T06:42:07.247: SelectedLayer: 3
+2017-11-03T06:42:07.259: FileName: factory-I-720p.seg20-L0.svc download complete...
+2017-11-03T06:42:07.269: FileName: factory-I-720p.seg20-L1.svc download complete...
+2017-11-03T06:42:07.277: FileName: factory-I-720p.seg20-L2.svc download complete...
+2017-11-03T06:42:07.286: FileName: factory-I-720p.seg20-L3.svc download complete...
+2017-11-03T06:42:07.437: Finish handling segment 19
+==================================================
+2017-11-03T06:42:07.437:
+==================================================
+Start handling segment 20, previous reference speed: 16316.219224032424KB/s
+2017-11-03T06:42:07.437: Threshold of 0: 174KB/s
+2017-11-03T06:42:07.437: Threshold of 1: 445KB/s
+2017-11-03T06:42:07.437: Threshold of 2: 878KB/s
+2017-11-03T06:42:07.437: Threshold of 3: 1545KB/s
+2017-11-03T06:42:07.437: SelectedLayer: 3
+2017-11-03T06:42:07.457: FileName: factory-I-720p.seg21-L0.svc download complete...
+2017-11-03T06:42:07.465: FileName: factory-I-720p.seg21-L1.svc download complete...
+2017-11-03T06:42:07.476: FileName: factory-I-720p.seg21-L2.svc download complete...
+2017-11-03T06:42:07.502: FileName: factory-I-720p.seg21-L3.svc download complete...
+2017-11-03T06:42:07.660: Finish handling segment 20
+==================================================
+2017-11-03T06:42:07.660:
+==================================================
+Start handling segment 21, previous reference speed: 10594.959583436648KB/s
+2017-11-03T06:42:07.660: Threshold of 0: 174KB/s
+2017-11-03T06:42:07.660: Threshold of 1: 445KB/s
+2017-11-03T06:42:07.660: Threshold of 2: 878KB/s
+2017-11-03T06:42:07.660: Threshold of 3: 1545KB/s
+2017-11-03T06:42:07.660: SelectedLayer: 3
+2017-11-03T06:42:07.674: FileName: factory-I-720p.seg22-L0.svc download complete...
+2017-11-03T06:42:07.686: FileName: factory-I-720p.seg22-L1.svc download complete...
+2017-11-03T06:42:07.700: FileName: factory-I-720p.seg22-L2.svc download complete...
+2017-11-03T06:42:07.718: FileName: factory-I-720p.seg22-L3.svc download complete...
+2017-11-03T06:42:07.836: Finish handling segment 21
+==================================================
+2017-11-03T06:42:07.836:
+==================================================
+Start handling segment 22, previous reference speed: 10773.567354888273KB/s
+2017-11-03T06:42:07.836: Threshold of 0: 174KB/s
+2017-11-03T06:42:07.836: Threshold of 1: 445KB/s
+2017-11-03T06:42:07.836: Threshold of 2: 878KB/s
+2017-11-03T06:42:07.836: Threshold of 3: 1545KB/s
+2017-11-03T06:42:07.837: SelectedLayer: 3
+2017-11-03T06:42:07.856: FileName: factory-I-720p.seg23-L0.svc download complete...
+2017-11-03T06:42:07.878: FileName: factory-I-720p.seg23-L1.svc download complete...
+2017-11-03T06:42:07.926: FileName: factory-I-720p.seg23-L2.svc download complete...
+2017-11-03T06:42:07.962: FileName: factory-I-720p.seg23-L3.svc download complete...
+2017-11-03T06:42:08.086: Finish handling segment 22
+==================================================
+2017-11-03T06:42:08.086:
+==================================================
+Start handling segment 23, previous reference speed: 6452.913846757493KB/s
+2017-11-03T06:42:08.086: Threshold of 0: 174KB/s
+2017-11-03T06:42:08.086: Threshold of 1: 445KB/s
+2017-11-03T06:42:08.087: Threshold of 2: 878KB/s
+2017-11-03T06:42:08.087: Threshold of 3: 1545KB/s
+2017-11-03T06:42:08.087: SelectedLayer: 3
+2017-11-03T06:42:08.107: FileName: factory-I-720p.seg24-L0.svc download complete...
+2017-11-03T06:42:08.116: FileName: factory-I-720p.seg24-L1.svc download complete...
+2017-11-03T06:42:08.147: FileName: factory-I-720p.seg24-L2.svc download complete...
+2017-11-03T06:42:08.202: FileName: factory-I-720p.seg24-L3.svc download complete...
+2017-11-03T06:42:08.313: Finish handling segment 23
+==================================================
+2017-11-03T06:42:08.313:
+==================================================
+Start handling segment 24, previous reference speed: 6143.344616851809KB/s
+2017-11-03T06:42:08.313: Threshold of 0: 174KB/s
+2017-11-03T06:42:08.314: Threshold of 1: 445KB/s
+2017-11-03T06:42:08.314: Threshold of 2: 878KB/s
+2017-11-03T06:42:08.314: Threshold of 3: 1545KB/s
+2017-11-03T06:42:08.314: SelectedLayer: 3
+2017-11-03T06:42:08.325: FileName: factory-I-720p.seg25-L0.svc download complete...
+2017-11-03T06:42:08.335: FileName: factory-I-720p.seg25-L1.svc download complete...
+2017-11-03T06:42:08.363: FileName: factory-I-720p.seg25-L2.svc download complete...
+2017-11-03T06:42:08.506: FileName: factory-I-720p.seg25-L3.svc download complete...
+2017-11-03T06:42:09.313: Finish handling segment 24
+==================================================
+2017-11-03T06:42:09.313:
+==================================================
+Start handling segment 25, previous reference speed: 5900.141310445214KB/s
+2017-11-03T06:42:09.313: Threshold of 0: 174KB/s
+2017-11-03T06:42:09.313: Threshold of 1: 445KB/s
+2017-11-03T06:42:09.313: Threshold of 2: 878KB/s
+2017-11-03T06:42:09.313: Threshold of 3: 1545KB/s
+2017-11-03T06:42:09.313: SelectedLayer: 3
+2017-11-03T06:42:10.032: FileName: factory-I-720p.seg26-L0.svc download complete...
+2017-11-03T06:42:10.045: FileName: factory-I-720p.seg26-L1.svc download complete...
+2017-11-03T06:42:10.189: FileName: factory-I-720p.seg26-L2.svc download complete...
+2017-11-03T06:42:10.205: FileName: factory-I-720p.seg26-L3.svc download complete...
+2017-11-03T06:42:11.424: Finish handling segment 25
+==================================================
+2017-11-03T06:42:11.425:
+==================================================
+Start handling segment 26, previous reference speed: 9482.918282316828KB/s
+2017-11-03T06:42:11.425: Threshold of 0: 174KB/s
+2017-11-03T06:42:11.425: Threshold of 1: 445KB/s
+2017-11-03T06:42:11.425: Threshold of 2: 878KB/s
+2017-11-03T06:42:11.425: Threshold of 3: 1545KB/s
+2017-11-03T06:42:11.425: SelectedLayer: 3
+2017-11-03T06:42:11.445: FileName: factory-I-720p.seg27-L0.svc download complete...
+2017-11-03T06:42:11.463: FileName: factory-I-720p.seg27-L1.svc download complete...
+2017-11-03T06:42:11.476: FileName: factory-I-720p.seg27-L2.svc download complete...
+2017-11-03T06:42:11.499: FileName: factory-I-720p.seg27-L3.svc download complete...
+2017-11-03T06:42:11.579: Finish handling segment 26
+==================================================
+2017-11-03T06:42:11.579: Shutting down Client in 5s
