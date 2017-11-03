@@ -1,1 +1,1 @@
-java -cp ".:/home/ayush/CODES/Projects/JavaWorkspace/SvcP2PStream/lib/*" com.mtp.app.Main > log/server.out &
+java -cp ".:./../lib/*" com.mtp.app.Main > log/server.out &
