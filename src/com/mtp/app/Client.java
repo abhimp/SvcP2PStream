@@ -26,12 +26,12 @@ public class Client {
 
 	public static final Queue<Integer> stepsQueue = new LinkedList<>();
 	public static final List<Integer> downloadedSegmentsList = new ArrayList<>();
-	public static final String MUX_SCRIPT = "/home/ayush/CODES/Projects/JavaWorkspace/SvcP2PStream/resource/script/svc_mux.py";
+	public static final String MUX_SCRIPT = "./../resource/script/svc_mux.py";
 
 	@SuppressWarnings("unchecked")
-	public static void run(int clientId, String outputpath, String mpdFileName, String videoName, int fpsRate)
+	public static void run(int clientId, String serverAddress, int serverPort, String outputpath, String mpdFileName, String videoName, int fpsRate)
 			throws IOException, ParserConfigurationException, SAXException, InterruptedException {
-		ClientPeer client = new ClientPeer(clientId);
+		ClientPeer client = new ClientPeer(clientId, serverAddress, serverPort);
 		Path path = Paths.get(outputpath + mpdFileName);
 		Files.write(path, client.find(mpdFileName));
 		System.out.println("Name:" + mpdFileName + " >> Download complete...");
