@@ -13,7 +13,7 @@ public class Main {
 	private static final String OUTPUT_PATH_PREFIX = "./../resource/factory-I-720p_out/";
 	private static final int FPS_RATE = 25;
 	private static final int SERVER_STARTUP_DELAY = 5000;
-	private static final int SEGMENT_ENCODING_DELAY = 500;
+	private static final int SEGMENT_ENCODING_DELAY = 0;
 
 	public static void main(String[] args) throws IOException, ParserConfigurationException, SAXException,
 			NumberFormatException, InterruptedException {

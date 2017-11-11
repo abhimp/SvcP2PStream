@@ -32,7 +32,7 @@ public class Server {
 		List<List<String>> segmentUrls = (List<List<String>>) parseResultMap.get("segmentUrls");
 		for (int itr = 0; itr < numberOfSegments; itr++) {
 			System.out.println(LocalDateTime.now() + ": Encoding segment " + itr + "...");
-			Thread.sleep(encodingDelay);
+//			Thread.sleep(encodingDelay);
 			System.out.println("\n==================================================\n" + LocalDateTime.now()
 					+ ": Starting upload of segment " + itr);
 			for (int jtr = 0; jtr < layerIdList.size(); jtr++) {
@@ -45,13 +45,13 @@ public class Server {
 			if (itr + 1 < numberOfSegments) {
 				System.out.println("\n==================================================\n" + LocalDateTime.now()
 						+ ": Preparing segment " + (itr + 1) + "...");
-				Thread.sleep(segmentDurationDelay);
+//				Thread.sleep(segmentDurationDelay);
 			}
 		}
 
-		System.out.println(LocalDateTime.now() + ": End of Video");
-		System.out.println(LocalDateTime.now() + ": Shutting down Server in 20s");
-		Thread.sleep(20000);
-		server.shutdown();
+//		System.out.println(LocalDateTime.now() + ": End of Video");
+//		System.out.println(LocalDateTime.now() + ": Shutting down Server in 20s");
+//		Thread.sleep(20000);
+//		server.shutdown();
 	}
 }
