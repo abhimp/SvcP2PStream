@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="urn:mpeg:DASH:schema:MPD:2011"
+         xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011"
+         profiles="urn:mpeg:dash:profile:isoff-main:2011"
+         type="static"
+         mediaPresentationDuration="PT55.792S"
+         minBufferTime="PT2.0S">
+    <BaseURL>./</BaseURL>
+    <Period start="PT0S">
+    
+     <AdaptationSet bitstreamSwitching="true" mimeType="video/264" startWithSAP="1" maxWidth="1280" maxHeight="720" maxFrameRate="24" par="16:9">
+        
+        <SegmentBase>
+            <Initialization sourceURL="factory-I-720p.init.svc"/>
+        </SegmentBase>
+	
+	<Representation id="0" codecs="AVC" mimeType="video/264" width="1280" height="720" frameRate="24" sar="1:1" bandwidth="1398911">
+	    <SegmentList duration="48" timescale="24">
+		<SegmentURL media="factory-I-720p.seg1-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg2-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg3-L0.svc"/>
+		<SegmentURL media="factory-I-720p.seg4-L0.svc"/>
+	    </SegmentList>
+	</Representation>    	
+
+        <Representation id="1" dependencyId="0" codecs="SVC" mimeType="video/264"
+                                width="1280" height="720" frameRate="24" sar="1:1" bandwidth="2162327">
+            <SegmentList duration="48" timescale="24">
+                 <SegmentURL media="factory-I-720p.seg1-L1.svc"/>
+                 <SegmentURL media="factory-I-720p.seg2-L1.svc"/>
+		 <SegmentURL media="factory-I-720p.seg3-L1.svc"/>
+		 <SegmentURL media="factory-I-720p.seg4-L1.svc"/>
+            </SegmentList>
+        </Representation>
+    
+        <Representation id="2" dependencyId="0 1" codecs="SVC" mimeType="video/264"
+                                width="1280" height="720" frameRate="24" sar="1:1" bandwidth="3466219">
+            <SegmentList duration="48" timescale="24">
+                 <SegmentURL media="factory-I-720p.seg1-L2.svc"/>
+                 <SegmentURL media="factory-I-720p.seg2-L2.svc"/>
+		 <SegmentURL media="factory-I-720p.seg3-L2.svc"/>
+		 <SegmentURL media="factory-I-720p.seg4-L2.svc"/>
+            </SegmentList>
+        </Representation>
+     </AdaptationSet>
+        </Period>
+    </MPD>
+    

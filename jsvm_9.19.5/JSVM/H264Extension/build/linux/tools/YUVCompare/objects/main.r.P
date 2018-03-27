@@ -1,0 +1,3 @@
+objects/main.r.o: \
+ /home/ayush/DASH-SVC-Toolchain/jsvm_9.19.5/JSVM/H264Extension/build/linux/tools/YUVCompare/../../../../src/tools/YUVCompare/main.cpp
+ /home/ayush/DASH-SVC-Toolchain/jsvm_9.19.5/JSVM/H264Extension/build/linux/tools/YUVCompare/../../../../src/tools/YUVCompare/main.cpp :

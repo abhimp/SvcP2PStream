@@ -2,6 +2,22 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/tomp2plib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/TomP2PLib"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/gcm-server-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/mapdb-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/netty-buffer-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/netty-common-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/netty-transport-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-all-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-android-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-core-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-dht-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-nat-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-replication-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-storage-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/tomp2p-tracker-5.0-Beta8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/MTP/SvcP2PStream/lib/weupnp-0.1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

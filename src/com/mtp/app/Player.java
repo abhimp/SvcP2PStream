@@ -23,8 +23,10 @@ public class Player {
 		ProcessBuilder pb = new ProcessBuilder();
 		pb.redirectOutput(new File(videoLogFileName));
 		pb.redirectInput();
-		pb.command(new String[] { "mplayer", "-slave", "-fps", Integer.toString(fpsRate), videoFileName, "-x",
-				Integer.toString(width), "-y", Integer.toString(height) });
+		pb.command(new String[] {
+				"mplayer", "-demuxer", "rawvideo", "-rawvideo", "w=" + Integer.toString(width) + ":h="
+						+ Integer.toString(height) + ":format=i420:fps=" + Integer.toString(fpsRate),
+				"-slave", videoFileName });
 		Process p = pb.start();
 		return p.getOutputStream();
 	}
