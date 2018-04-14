@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.List;
@@ -53,6 +54,13 @@ public class Seeder {
 				String segmentLayerName = segmentUrls.get(jtr).get(itr);
 
 				String seederPeerLogFileName = datapath + "logs/" + segmentLayerName + "SeederPeer.log";
+				File logFile = new File(seederPeerLogFileName);
+				try {
+					Files.deleteIfExists(logFile.toPath());
+				} catch (IOException e1) {
+					e1.printStackTrace();
+				}
+				
 				String[] seederCommand = new String[] { "python3", PPSPP_SCRIPT, "--tracker", trackerAddress,
 						"--filename", datapath + segmentLayerName, "--swarmid", hashListMap.get(segmentLayerName),
 						"--filesize", sizeListMap.get(segmentLayerName), "--port", String.valueOf(2000 + itr*4 + jtr),

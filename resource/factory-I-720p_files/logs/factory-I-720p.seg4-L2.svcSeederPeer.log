@@ -1,0 +1,45 @@
+[INFO] 2018-03-29 09:08:04,860 PyPPSPP starting
+[INFO] 2018-03-29 09:08:04,860 PPSPP Parameters:
+        Tracker: 127.0.0.1;
+        Running on Port: 2014;
+        Filename: ./resource/factory-I-720p_files/factory-I-720p.seg4-L2.svc;
+        Filesize: 345637B;
+        Swarm: dcc28300d98a2b2cc459576cbc454d3e34639351;
+        Logger: ./resource/factory-I-720p_files/logs/factory-I-720p.seg4-L2.svcSeederPeer.log;
+        Live: False;
+        Live Source: False;
+        Alto: False;
+        Num peers: None;
+        Identifier: None;
+        Skip: False;
+        DiscardWnd: 1000;
+        Buffer Sz: 500;
+        Dl Fwd: 0;
+        VOD: False;
+    
+[INFO] 2018-03-29 09:08:04,867 File found. Checking integrity
+[INFO] 2018-03-29 09:08:04,870 File integrity checking passed. Starting to share the file
+[INFO] 2018-03-29 09:08:04,871 File integrity valid. Seeding the file!
+[INFO] 2018-03-29 09:08:04,871 Created Swarm with ID: dcc28300d98a2b2cc459576cbc454d3e34639351; Our UUID: af1d4a14-a7d0-4d87-b00e-079daa3dcc06
+[INFO] 2018-03-29 09:08:07,875 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:10,877 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:13,881 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:16,883 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:19,885 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:22,889 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:25,892 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:28,894 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:31,897 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:34,901 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:37,904 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:40,908 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:43,911 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:46,915 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:49,919 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:52,922 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:55,926 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:58,929 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:09:01,933 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:09:04,936 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:09:07,937 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:09:10,940 # Have/Missing 338/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0

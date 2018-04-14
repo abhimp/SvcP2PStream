@@ -1,0 +1,69 @@
+[INFO] 2018-03-29 09:08:04,589 PyPPSPP starting
+[INFO] 2018-03-29 09:08:04,589 PPSPP Parameters:
+        Tracker: 127.0.0.1;
+        Running on Port: 2000;
+        Filename: ./resource/factory-I-720p_files/factory-I-720p.seg1-L0.svc;
+        Filesize: 299307B;
+        Swarm: d42a8f66b2c900d8c7b4fed301b73308b69e0699;
+        Logger: ./resource/factory-I-720p_files/logs/factory-I-720p.seg1-L0.svcSeederPeer.log;
+        Live: False;
+        Live Source: False;
+        Alto: False;
+        Num peers: None;
+        Identifier: None;
+        Skip: False;
+        DiscardWnd: 1000;
+        Buffer Sz: 500;
+        Dl Fwd: 0;
+        VOD: False;
+    
+[INFO] 2018-03-29 09:08:04,616 File found. Checking integrity
+[INFO] 2018-03-29 09:08:04,619 File integrity checking passed. Starting to share the file
+[INFO] 2018-03-29 09:08:04,619 File integrity valid. Seeding the file!
+[INFO] 2018-03-29 09:08:04,619 Created Swarm with ID: d42a8f66b2c900d8c7b4fed301b73308b69e0699; Our UUID: 1f7d6c6a-38c5-4f6e-b4ca-783ac1d57f5d
+[INFO] 2018-03-29 09:08:07,624 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[INFO] 2018-03-29 09:08:09,056 Received new_node from tracker. Node: 10.109.7.52:6798
+[INFO] 2018-03-29 09:08:09,056 Request for connection to: 10.109.7.52:6798 for swarm: d42a8f66b2c900d8c7b4fed301b73308b69e0699
+[INFO] 2018-03-29 09:08:09,056 Connection coro to 10.109.7.52:6798 created
+[INFO] 2018-03-29 09:08:09,057 Established OUTGOING TCP connection (1) with 10.109.7.52:6798
+[INFO] 2018-03-29 09:08:09,057 Found swarm d42a8f66b2c900d8c7b4fed301b73308b69e0699 waiting for the connection
+[INFO] 2018-03-29 09:08:09,057 Swarm::AddMember Request: IP: 10.109.7.52; Port: 6798; Proto present: True
+[INFO] 2018-03-29 09:08:09,057 Swarm::AddMember: Created member: Peer 10.109.7.52:6798 (1) LC: 0; RC: 0
+[INFO] 2018-03-29 09:08:09,057 Sending handshake to 10.109.7.52:6798. RC=0;LC=4717
+[INFO] 2018-03-29 09:08:09,057 Registering member: Peer 10.109.7.52:6798 (1) LC: 4717; RC: 0; Conn: 1
+[INFO] 2018-03-29 09:08:09,058 Established INCOMING TCP connection (2) with 10.109.7.52:43106
+[INFO] 2018-03-29 09:08:09,058 Added connection 2 to orphan list
+[INFO] 2018-03-29 09:08:09,059 Swarm::AddMember Request: IP: 10.109.7.52; Port: 43106; Proto present: True
+[INFO] 2018-03-29 09:08:09,059 Swarm::AddMember: Created member: Peer 10.109.7.52:43106 (2) LC: 0; RC: 0
+[INFO] 2018-03-29 09:08:09,059 Received init [HANDSHAKE] LocCh: 0; RemCh: 64884 Peer: 10.109.7.52:43106 Conn: 2 Peer UUID: b67c1091-3b95-4e03-ae03-7e1cef4a42ff
+[INFO] 2018-03-29 09:08:09,059 Pigybacking on HANDSHAKE: [HAVE] Start: 0; End: 292
+[INFO] 2018-03-29 09:08:09,059 Replying with HANDSHAKE to 10.109.7.52:43106. RC=64884;LC=58110
+[INFO] 2018-03-29 09:08:09,059 Registering member: Peer 10.109.7.52:43106 (2) LC: 58110; RC: 64884; Conn: 2
+[INFO] 2018-03-29 09:08:09,060 Received reply [HANDSHAKE] LocCh: 4717; RemCh: 54065 Peer: 10.109.7.52:6798 Conn: 1
+[INFO] 2018-03-29 09:08:09,060 Duplicate connection, destroying Peer 10.109.7.52:6798 (1) LC: 4717; RC: 54065
+[INFO] 2018-03-29 09:08:09,060 Destroying member (Peer 10.109.7.52:6798 (1) LC: 4717; RC: 54065). Send disconnect: True
+[INFO] 2018-03-29 09:08:09,060 Sending: [HANDSHAKE] Goodbye!
+[INFO] 2018-03-29 09:08:09,060 Request to remove member Peer 10.109.7.52:6798 (1) LC: 4717; RC: 54065 from connection 10.109.7.52:6798 (1)
+[INFO] 2018-03-29 09:08:09,060 Removing member Peer 10.109.7.52:6798 (1) LC: 4717; RC: 54065 from a swarm
+[INFO] 2018-03-29 09:08:09,060 Connection 1 lost: None
+[INFO] 2018-03-29 09:08:10,625 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 101819/56 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:13,626 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:16,627 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:19,629 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:22,630 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:25,631 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:28,633 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:31,635 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:34,636 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:37,638 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:40,639 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:43,641 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:46,642 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:49,644 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:52,646 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:55,648 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:08:58,650 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:09:01,651 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:09:04,652 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:09:07,653 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[INFO] 2018-03-29 09:09:10,655 # Have/Missing 293/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
