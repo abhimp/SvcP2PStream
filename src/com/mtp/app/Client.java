@@ -146,34 +146,34 @@ public class Client {
 					int preSelectedLayer = 0;
 					if (seg == 0) {
 						preSelectedLayer = curLayer;
-						Thread mplayerThread = new Thread(new Runnable() {
-							@Override
-							public void run() {
-								try {
-									Thread.sleep(5000);
-									OutputStream mplayerOutputStream = Player.playVideo(outputFileName, fpsRate, width, height);
-									Thread mplayerControllerThread = new Thread(new Runnable() {
-
-										@Override
-										public void run() {
-											try {
-												Player.runMplayerController(outputFileName, duration, numberOfSegments,
-														mplayerOutputStream);
-											} catch (AWTException | IOException | InterruptedException e) {
-												e.printStackTrace();
-											}
-										}
-									});
-
-									Thread.sleep(100);
-									mplayerControllerThread.start();
-								} catch (IOException | InterruptedException e1) {
-									// TODO Auto-generated catch block
-									e1.printStackTrace();
-								}
-							}
-						});
-						mplayerThread.start();
+//						Thread mplayerThread = new Thread(new Runnable() {
+//							@Override
+//							public void run() {
+//								try {
+//									Thread.sleep(5000);
+//									OutputStream mplayerOutputStream = Player.playVideo(outputFileName, fpsRate, width, height);
+//									Thread mplayerControllerThread = new Thread(new Runnable() {
+//
+//										@Override
+//										public void run() {
+//											try {
+//												Player.runMplayerController(outputFileName, duration, numberOfSegments,
+//														mplayerOutputStream);
+//											} catch (AWTException | IOException | InterruptedException e) {
+//												e.printStackTrace();
+//											}
+//										}
+//									});
+//
+//									Thread.sleep(100);
+//									mplayerControllerThread.start();
+//								} catch (IOException | InterruptedException e1) {
+//									// TODO Auto-generated catch block
+//									e1.printStackTrace();
+//								}
+//							}
+//						});
+//						mplayerThread.start();
 					} else {
 						stepsQueue.add(layerIdList.indexOf(curLayer) - layerIdList.indexOf(preSelectedLayer));
 						preSelectedLayer = curLayer;

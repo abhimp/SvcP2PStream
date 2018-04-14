@@ -65,6 +65,7 @@ public class Seeder {
 						"--filename", datapath + segmentLayerName, "--swarmid", hashListMap.get(segmentLayerName),
 						"--filesize", sizeListMap.get(segmentLayerName), "--port", String.valueOf(2000 + itr*4 + jtr),
 						"--logger", seederPeerLogFileName };
+				System.out.println(String.join(" ", seederCommand));
 				System.out.println(LocalDateTime.now() + ": Starting seeder " + segmentLayerName + " on Port: " + String.valueOf(2000 + itr*6 + jtr));
 				ProcessBuilder pb = new ProcessBuilder();
 				pb.command(seederCommand);

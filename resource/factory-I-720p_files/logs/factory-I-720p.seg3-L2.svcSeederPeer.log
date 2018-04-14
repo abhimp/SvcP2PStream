@@ -1,5 +1,5 @@
-[INFO] 2018-03-29 09:08:04,877 PyPPSPP starting
-[INFO] 2018-03-29 09:08:04,877 PPSPP Parameters:
+[INFO] 2018-04-14 15:27:07,638 PyPPSPP starting
+[INFO] 2018-04-14 15:27:07,639 PPSPP Parameters:
         Tracker: 127.0.0.1;
         Running on Port: 2010;
         Filename: ./resource/factory-I-720p_files/factory-I-720p.seg3-L2.svc;
@@ -17,29 +17,7 @@
         Dl Fwd: 0;
         VOD: False;
     
-[INFO] 2018-03-29 09:08:04,879 File found. Checking integrity
-[INFO] 2018-03-29 09:08:04,882 File integrity checking passed. Starting to share the file
-[INFO] 2018-03-29 09:08:04,882 File integrity valid. Seeding the file!
-[INFO] 2018-03-29 09:08:04,882 Created Swarm with ID: 22bbf15b10c4f0777283d0f8b01ea3c8b12ada4f; Our UUID: 2d1cb930-27e1-4dbe-897b-c9fee9fff361
-[INFO] 2018-03-29 09:08:07,886 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:10,889 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:13,890 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:16,893 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:19,894 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:22,898 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:25,901 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:28,902 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:31,904 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:34,908 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:37,911 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:40,915 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:43,918 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:46,922 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:49,926 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:52,930 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:55,933 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:58,937 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:09:01,940 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:09:04,944 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:09:07,946 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:09:10,948 # Have/Missing 454/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
+[WARNING] 2018-04-14 15:27:07,650 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[WARNING] 2018-04-14 15:27:08,652 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[WARNING] 2018-04-14 15:27:09,654 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[ERROR] 2018-04-14 15:27:10,656 Failed to connect to the tracker!

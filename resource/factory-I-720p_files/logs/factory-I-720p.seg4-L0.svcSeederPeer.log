@@ -1,5 +1,5 @@
-[INFO] 2018-03-29 09:08:04,873 PyPPSPP starting
-[INFO] 2018-03-29 09:08:04,874 PPSPP Parameters:
+[INFO] 2018-04-14 15:27:07,686 PyPPSPP starting
+[INFO] 2018-04-14 15:27:07,686 PPSPP Parameters:
         Tracker: 127.0.0.1;
         Running on Port: 2012;
         Filename: ./resource/factory-I-720p_files/factory-I-720p.seg4-L0.svc;
@@ -17,53 +17,7 @@
         Dl Fwd: 0;
         VOD: False;
     
-[INFO] 2018-03-29 09:08:04,876 File found. Checking integrity
-[INFO] 2018-03-29 09:08:04,879 File integrity checking passed. Starting to share the file
-[INFO] 2018-03-29 09:08:04,879 File integrity valid. Seeding the file!
-[INFO] 2018-03-29 09:08:04,879 Created Swarm with ID: 0a05a88d24aea9b6a87192ac6b7dff76b544049f; Our UUID: ec7fe7bf-b776-4e36-aaa8-a81860036625
-[INFO] 2018-03-29 09:08:07,883 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:10,886 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:13,888 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:16,889 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 0/0
-[INFO] 2018-03-29 09:08:18,999 Received new_node from tracker. Node: 10.109.7.52:6810
-[INFO] 2018-03-29 09:08:19,000 Request for connection to: 10.109.7.52:6810 for swarm: 0a05a88d24aea9b6a87192ac6b7dff76b544049f
-[INFO] 2018-03-29 09:08:19,000 Connection coro to 10.109.7.52:6810 created
-[INFO] 2018-03-29 09:08:19,001 Established OUTGOING TCP connection (1) with 10.109.7.52:6810
-[INFO] 2018-03-29 09:08:19,001 Found swarm 0a05a88d24aea9b6a87192ac6b7dff76b544049f waiting for the connection
-[INFO] 2018-03-29 09:08:19,001 Swarm::AddMember Request: IP: 10.109.7.52; Port: 6810; Proto present: True
-[INFO] 2018-03-29 09:08:19,001 Swarm::AddMember: Created member: Peer 10.109.7.52:6810 (1) LC: 0; RC: 0
-[INFO] 2018-03-29 09:08:19,001 Sending handshake to 10.109.7.52:6810. RC=0;LC=27847
-[INFO] 2018-03-29 09:08:19,002 Registering member: Peer 10.109.7.52:6810 (1) LC: 27847; RC: 0; Conn: 1
-[INFO] 2018-03-29 09:08:19,002 Established INCOMING TCP connection (2) with 10.109.7.52:42578
-[INFO] 2018-03-29 09:08:19,002 Added connection 2 to orphan list
-[INFO] 2018-03-29 09:08:19,003 Swarm::AddMember Request: IP: 10.109.7.52; Port: 42578; Proto present: True
-[INFO] 2018-03-29 09:08:19,003 Swarm::AddMember: Created member: Peer 10.109.7.52:42578 (2) LC: 0; RC: 0
-[INFO] 2018-03-29 09:08:19,003 Received init [HANDSHAKE] LocCh: 0; RemCh: 24685 Peer: 10.109.7.52:42578 Conn: 2 Peer UUID: cf529e58-d513-44b9-bc9d-a7b6548c525f
-[INFO] 2018-03-29 09:08:19,003 Pigybacking on HANDSHAKE: [HAVE] Start: 0; End: 319
-[INFO] 2018-03-29 09:08:19,003 Replying with HANDSHAKE to 10.109.7.52:42578. RC=24685;LC=28782
-[INFO] 2018-03-29 09:08:19,003 Registering member: Peer 10.109.7.52:42578 (2) LC: 28782; RC: 24685; Conn: 2
-[INFO] 2018-03-29 09:08:19,007 Received reply [HANDSHAKE] LocCh: 27847; RemCh: 54433 Peer: 10.109.7.52:6810 Conn: 1
-[INFO] 2018-03-29 09:08:19,007 Duplicate connection, destroying Peer 10.109.7.52:42578 (2) LC: 28782; RC: 24685
-[INFO] 2018-03-29 09:08:19,007 Destroying member (Peer 10.109.7.52:42578 (2) LC: 28782; RC: 24685). Send disconnect: True
-[INFO] 2018-03-29 09:08:19,007 Sending: [HANDSHAKE] Goodbye!
-[INFO] 2018-03-29 09:08:19,007 Request to remove member Peer 10.109.7.52:42578 (2) LC: 28782; RC: 24685 from connection 10.109.7.52:42578 (2)
-[INFO] 2018-03-29 09:08:19,007 Removing member Peer 10.109.7.52:42578 (2) LC: 28782; RC: 24685 from a swarm
-[INFO] 2018-03-29 09:08:19,007 Connection 2 lost: None
-[INFO] 2018-03-29 09:08:19,890 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 58/47 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:22,893 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 111185/8 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:25,895 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:28,896 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:31,898 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:34,900 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:37,901 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:40,903 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:43,904 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:46,906 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:49,908 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:52,910 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:55,911 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:08:58,913 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:09:01,915 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:09:04,916 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:09:07,919 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
-[INFO] 2018-03-29 09:09:10,921 # Have/Missing 320/0; Down ch/s: 0; Speed up/down: 0/0 Bps; Members Known/Valid: 1/1
+[WARNING] 2018-04-14 15:27:07,688 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[WARNING] 2018-04-14 15:27:08,691 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[WARNING] 2018-04-14 15:27:09,693 Exception connecting to tracker: [Errno 111] Connect call failed ('127.0.0.1', 6777)
+[ERROR] 2018-04-14 15:27:10,695 Failed to connect to the tracker!
